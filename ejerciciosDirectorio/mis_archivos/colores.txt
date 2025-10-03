@@ -1,4 +1,1 @@
-azul
-rojo
-naranja
-verde
+plateado
