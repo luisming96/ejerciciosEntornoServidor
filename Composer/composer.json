@@ -1,0 +1,17 @@
+{
+    "name": "luismiguel/ejemploclase01",
+    "description": "ejemplo de clase 01",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Luismiguel\\Ejemploclase01\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luismiguel luisming96gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
