@@ -1,0 +1,15 @@
+{
+    "name": "luismiguel/primerproyecto",
+    "autoload": {
+        "psr-4": {
+            "Luismiguel\\PrimerProyecto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luis Miguel",
+            "email": "luismiguel@ejemplo.com"
+        }
+    ],
+    "require": {}
+}
